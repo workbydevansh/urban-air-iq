@@ -1,0 +1,101 @@
+city,station,date,current_aqi,current_category,predicted_aqi_24h,category_24h,trend_24h,confidence_24h,predicted_aqi_48h,category_48h,trend_48h,confidence_48h,predicted_aqi_72h,category_72h,trend_72h,confidence_72h
+Mumbai,Station_M2,2015-01-30,198.6,Moderate,255.49,Poor,Worsening,60.0,239.5,Poor,Worsening,60.0,257.72,Poor,Worsening,60.0
+Chennai,Station_C2,2015-01-30,140.1,Moderate,241.76,Poor,Worsening,60.0,251.05,Poor,Worsening,60.0,251.04,Poor,Worsening,60.0
+Delhi,Station_D2,2015-01-30,191.5,Moderate,232.39,Poor,Worsening,60.0,258.32,Poor,Worsening,60.0,259.6,Poor,Worsening,60.0
+Kolkata,Station_K1,2015-01-30,195.8,Moderate,254.54,Poor,Worsening,60.0,244.16,Poor,Worsening,60.0,241.18,Poor,Worsening,60.0
+Delhi,Station_D1,2015-01-30,247.6,Poor,239.78,Poor,Stable,60.0,269.75,Poor,Worsening,60.0,246.21,Poor,Stable,60.0
+Kolkata,Station_K2,2015-01-30,437.3,Severe,252.58,Poor,Improving,60.0,258.04,Poor,Improving,60.0,257.9,Poor,Improving,60.0
+Chennai,Station_C1,2015-01-30,98.7,Satisfactory,251.12,Poor,Worsening,60.0,261.46,Poor,Worsening,60.0,251.64,Poor,Worsening,60.0
+Bangalore,Station_B2,2015-01-30,10.3,Good,235.35,Poor,Worsening,60.0,257.38,Poor,Worsening,60.0,248.15,Poor,Worsening,60.0
+Bangalore,Station_B1,2015-01-30,311.9,Very Poor,255.51,Poor,Improving,60.0,257.49,Poor,Improving,60.0,253.07,Poor,Improving,60.0
+Mumbai,Station_M1,2015-01-30,460.1,Severe,255.74,Poor,Improving,60.0,232.76,Poor,Improving,60.0,250.17,Poor,Improving,60.0
+Chennai,Station_C1,2015-01-30,279.0,Poor,252.92,Poor,Improving,60.0,259.31,Poor,Improving,60.0,236.56,Poor,Improving,60.0
+Delhi,Station_D1,2015-01-30,140.4,Moderate,245.98,Poor,Worsening,60.0,247.86,Poor,Worsening,60.0,259.37,Poor,Worsening,60.0
+Kolkata,Station_K2,2015-01-30,435.4,Severe,247.83,Poor,Improving,60.0,243.31,Poor,Improving,60.0,258.57,Poor,Improving,60.0
+Mumbai,Station_M1,2015-01-30,215.1,Poor,270.87,Poor,Worsening,60.0,227.36,Poor,Stable,60.0,253.68,Poor,Worsening,60.0
+Chennai,Station_C2,2015-01-30,47.2,Good,231.75,Poor,Worsening,60.0,239.52,Poor,Worsening,60.0,246.84,Poor,Worsening,60.0
+Bangalore,Station_B1,2015-01-30,323.3,Very Poor,277.42,Poor,Improving,60.0,255.08,Poor,Improving,60.0,234.52,Poor,Improving,60.0
+Bangalore,Station_B2,2015-01-30,7.1,Good,200.55,Poor,Worsening,60.0,248.49,Poor,Worsening,60.0,255.0,Poor,Worsening,60.0
+Delhi,Station_D2,2015-01-30,286.9,Poor,241.47,Poor,Improving,60.0,267.1,Poor,Improving,60.0,202.53,Poor,Improving,60.0
+Mumbai,Station_M2,2015-01-30,367.5,Very Poor,244.81,Poor,Improving,60.0,257.61,Poor,Improving,60.0,224.83,Poor,Improving,60.0
+Kolkata,Station_K1,2015-01-30,482.1,Severe,262.17,Poor,Improving,60.0,251.82,Poor,Improving,60.0,248.37,Poor,Improving,60.0
+Chennai,Station_C1,2015-01-30,433.9,Severe,267.54,Poor,Improving,60.0,242.13,Poor,Improving,60.0,261.27,Poor,Improving,60.0
+Delhi,Station_D2,2015-01-30,176.6,Moderate,238.55,Poor,Worsening,60.0,254.48,Poor,Worsening,60.0,280.06,Poor,Worsening,60.0
+Chennai,Station_C2,2015-01-30,327.8,Very Poor,249.74,Poor,Improving,60.0,251.14,Poor,Improving,60.0,253.33,Poor,Improving,60.0
+Mumbai,Station_M1,2015-01-30,420.4,Severe,255.7,Poor,Improving,60.0,237.9,Poor,Improving,60.0,254.02,Poor,Improving,60.0
+Bangalore,Station_B1,2015-01-30,181.4,Moderate,241.64,Poor,Worsening,60.0,285.35,Poor,Worsening,60.0,247.73,Poor,Worsening,60.0
+Delhi,Station_D1,2015-01-30,310.0,Very Poor,247.03,Poor,Improving,60.0,255.37,Poor,Improving,60.0,255.82,Poor,Improving,60.0
+Kolkata,Station_K2,2015-01-30,462.2,Severe,249.66,Poor,Improving,60.0,257.68,Poor,Improving,60.0,245.07,Poor,Improving,60.0
+Kolkata,Station_K1,2015-01-30,147.1,Moderate,212.25,Poor,Worsening,60.0,253.68,Poor,Worsening,60.0,247.5,Poor,Worsening,60.0
+Mumbai,Station_M2,2015-01-30,450.5,Severe,253.34,Poor,Improving,60.0,242.45,Poor,Improving,60.0,255.72,Poor,Improving,60.0
+Bangalore,Station_B2,2015-01-30,170.8,Moderate,235.06,Poor,Worsening,60.0,251.09,Poor,Worsening,60.0,263.42,Poor,Worsening,60.0
+Chennai,Station_C1,2015-01-30,128.7,Moderate,240.89,Poor,Worsening,60.0,239.05,Poor,Worsening,60.0,257.17,Poor,Worsening,60.0
+Delhi,Station_D1,2015-01-30,264.6,Poor,248.17,Poor,Improving,60.0,255.66,Poor,Stable,60.0,255.45,Poor,Stable,60.0
+Chennai,Station_C2,2015-01-30,350.3,Very Poor,260.49,Poor,Improving,60.0,251.17,Poor,Improving,60.0,252.2,Poor,Improving,60.0
+Mumbai,Station_M2,2015-01-30,388.8,Very Poor,247.0,Poor,Improving,60.0,247.94,Poor,Improving,60.0,255.01,Poor,Improving,60.0
+Bangalore,Station_B2,2015-01-30,69.2,Satisfactory,239.5,Poor,Worsening,60.0,242.45,Poor,Worsening,60.0,253.79,Poor,Worsening,60.0
+Mumbai,Station_M1,2015-01-30,451.6,Severe,240.75,Poor,Improving,60.0,213.23,Poor,Improving,60.0,253.04,Poor,Improving,60.0
+Bangalore,Station_B1,2015-01-30,129.0,Moderate,251.86,Poor,Worsening,60.0,225.55,Poor,Worsening,60.0,271.75,Poor,Worsening,60.0
+Kolkata,Station_K1,2015-01-30,161.8,Moderate,244.95,Poor,Worsening,60.0,255.68,Poor,Worsening,60.0,258.3,Poor,Worsening,60.0
+Delhi,Station_D2,2015-01-30,46.1,Good,264.7,Poor,Worsening,60.0,248.08,Poor,Worsening,60.0,248.32,Poor,Worsening,60.0
+Kolkata,Station_K2,2015-01-30,303.4,Very Poor,210.63,Poor,Improving,60.0,237.14,Poor,Improving,60.0,254.64,Poor,Improving,60.0
+Chennai,Station_C2,2015-01-30,368.3,Very Poor,262.22,Poor,Improving,60.0,229.75,Poor,Improving,60.0,271.16,Poor,Improving,60.0
+Bangalore,Station_B1,2015-01-30,313.6,Very Poor,255.02,Poor,Improving,60.0,254.98,Poor,Improving,60.0,265.6,Poor,Improving,60.0
+Chennai,Station_C1,2015-01-30,411.3,Severe,237.57,Poor,Improving,60.0,253.93,Poor,Improving,60.0,247.47,Poor,Improving,60.0
+Bangalore,Station_B2,2015-01-30,216.1,Poor,243.6,Poor,Worsening,60.0,254.65,Poor,Worsening,60.0,237.98,Poor,Worsening,60.0
+Delhi,Station_D1,2015-01-30,476.7,Severe,256.96,Poor,Improving,60.0,261.58,Poor,Improving,60.0,240.13,Poor,Improving,60.0
+Mumbai,Station_M1,2015-01-30,450.0,Severe,269.45,Poor,Improving,60.0,231.27,Poor,Improving,60.0,243.21,Poor,Improving,60.0
+Kolkata,Station_K2,2015-01-30,348.1,Very Poor,246.38,Poor,Improving,60.0,254.71,Poor,Improving,60.0,251.13,Poor,Improving,60.0
+Mumbai,Station_M2,2015-01-30,285.8,Poor,212.91,Poor,Improving,60.0,252.89,Poor,Improving,60.0,253.97,Poor,Improving,60.0
+Kolkata,Station_K1,2015-01-30,97.1,Satisfactory,245.26,Poor,Worsening,60.0,257.7,Poor,Worsening,60.0,255.69,Poor,Worsening,60.0
+Delhi,Station_D2,2015-01-30,90.0,Satisfactory,238.11,Poor,Worsening,60.0,249.88,Poor,Worsening,60.0,206.89,Poor,Worsening,60.0
+Kolkata,Station_K2,2015-01-30,98.7,Satisfactory,254.51,Poor,Worsening,60.0,287.8,Poor,Worsening,60.0,251.85,Poor,Worsening,60.0
+Bangalore,Station_B2,2015-01-30,227.0,Poor,249.32,Poor,Worsening,60.0,251.28,Poor,Worsening,60.0,251.96,Poor,Worsening,60.0
+Kolkata,Station_K1,2015-01-30,308.8,Very Poor,238.51,Poor,Improving,60.0,266.75,Poor,Improving,60.0,245.49,Poor,Improving,60.0
+Delhi,Station_D2,2015-01-30,362.2,Very Poor,250.51,Poor,Improving,60.0,260.8,Poor,Improving,60.0,246.08,Poor,Improving,60.0
+Chennai,Station_C1,2015-01-30,215.0,Poor,249.92,Poor,Worsening,60.0,249.21,Poor,Worsening,60.0,255.45,Poor,Worsening,60.0
+Mumbai,Station_M1,2015-01-30,475.1,Severe,215.15,Poor,Improving,60.0,241.34,Poor,Improving,60.0,258.04,Poor,Improving,60.0
+Bangalore,Station_B1,2015-01-30,162.0,Moderate,252.62,Poor,Worsening,60.0,245.86,Poor,Worsening,60.0,255.35,Poor,Worsening,60.0
+Chennai,Station_C2,2015-01-30,464.8,Severe,256.04,Poor,Improving,60.0,249.91,Poor,Improving,60.0,245.81,Poor,Improving,60.0
+Mumbai,Station_M2,2015-01-30,67.7,Satisfactory,240.04,Poor,Worsening,60.0,244.01,Poor,Worsening,60.0,271.21,Poor,Worsening,60.0
+Delhi,Station_D1,2015-01-30,464.8,Severe,249.91,Poor,Improving,60.0,241.44,Poor,Improving,60.0,243.02,Poor,Improving,60.0
+Bangalore,Station_B2,2015-01-30,283.7,Poor,257.71,Poor,Improving,60.0,231.03,Poor,Improving,60.0,242.6,Poor,Improving,60.0
+Kolkata,Station_K1,2015-01-30,314.7,Very Poor,253.9,Poor,Improving,60.0,237.83,Poor,Improving,60.0,243.35,Poor,Improving,60.0
+Kolkata,Station_K2,2015-01-30,10.6,Good,243.3,Poor,Worsening,60.0,261.27,Poor,Worsening,60.0,222.45,Poor,Worsening,60.0
+Mumbai,Station_M2,2015-01-30,0.7,Good,218.48,Poor,Worsening,60.0,268.63,Poor,Worsening,60.0,268.53,Poor,Worsening,60.0
+Delhi,Station_D1,2015-01-30,59.1,Satisfactory,254.02,Poor,Worsening,60.0,241.03,Poor,Worsening,60.0,255.86,Poor,Worsening,60.0
+Bangalore,Station_B1,2015-01-30,438.1,Severe,309.36,Very Poor,Improving,60.0,243.84,Poor,Improving,60.0,263.55,Poor,Improving,60.0
+Delhi,Station_D2,2015-01-30,252.3,Poor,249.09,Poor,Stable,60.0,245.43,Poor,Stable,60.0,244.8,Poor,Stable,60.0
+Mumbai,Station_M1,2015-01-30,6.3,Good,211.25,Poor,Worsening,60.0,231.2,Poor,Worsening,60.0,170.35,Moderate,Worsening,60.0
+Chennai,Station_C1,2015-01-30,214.4,Poor,246.66,Poor,Worsening,60.0,248.49,Poor,Worsening,60.0,248.98,Poor,Worsening,60.0
+Chennai,Station_C2,2015-01-30,268.5,Poor,245.98,Poor,Improving,60.0,234.87,Poor,Improving,60.0,248.52,Poor,Improving,60.0
+Chennai,Station_C2,2015-01-30,268.1,Poor,253.77,Poor,Stable,60.0,255.77,Poor,Stable,60.0,244.3,Poor,Improving,60.0
+Kolkata,Station_K2,2015-01-30,36.1,Good,247.8,Poor,Worsening,60.0,235.84,Poor,Worsening,60.0,255.74,Poor,Worsening,60.0
+Bangalore,Station_B1,2015-01-30,279.5,Poor,245.96,Poor,Improving,60.0,243.35,Poor,Improving,60.0,259.49,Poor,Improving,60.0
+Mumbai,Station_M2,2015-01-30,499.8,Severe,263.43,Poor,Improving,60.0,259.19,Poor,Improving,60.0,254.36,Poor,Improving,60.0
+Chennai,Station_C1,2015-01-30,295.1,Poor,243.25,Poor,Improving,60.0,255.37,Poor,Improving,60.0,263.87,Poor,Improving,60.0
+Kolkata,Station_K1,2015-01-30,387.8,Very Poor,255.45,Poor,Improving,60.0,252.1,Poor,Improving,60.0,248.96,Poor,Improving,60.0
+Bangalore,Station_B2,2015-01-30,393.4,Very Poor,246.14,Poor,Improving,60.0,238.8,Poor,Improving,60.0,254.57,Poor,Improving,60.0
+Delhi,Station_D1,2015-01-30,173.8,Moderate,248.14,Poor,Worsening,60.0,250.27,Poor,Worsening,60.0,260.05,Poor,Worsening,60.0
+Delhi,Station_D2,2015-01-30,493.8,Severe,256.12,Poor,Improving,60.0,254.22,Poor,Improving,60.0,247.84,Poor,Improving,60.0
+Mumbai,Station_M1,2015-01-30,65.7,Satisfactory,258.5,Poor,Worsening,60.0,243.81,Poor,Worsening,60.0,238.96,Poor,Worsening,60.0
+Kolkata,Station_K2,2015-01-30,29.0,Good,276.72,Poor,Worsening,60.0,248.09,Poor,Worsening,60.0,239.29,Poor,Worsening,60.0
+Chennai,Station_C2,2015-01-30,343.7,Very Poor,257.31,Poor,Improving,60.0,231.91,Poor,Improving,60.0,263.62,Poor,Improving,60.0
+Bangalore,Station_B2,2015-01-30,444.1,Severe,260.71,Poor,Improving,60.0,242.59,Poor,Improving,60.0,250.0,Poor,Improving,60.0
+Kolkata,Station_K1,2015-01-30,157.3,Moderate,261.45,Poor,Worsening,60.0,269.86,Poor,Worsening,60.0,235.83,Poor,Worsening,60.0
+Delhi,Station_D2,2015-01-30,310.8,Very Poor,252.22,Poor,Improving,60.0,246.9,Poor,Improving,60.0,247.28,Poor,Improving,60.0
+Chennai,Station_C1,2015-01-30,243.0,Poor,229.93,Poor,Stable,60.0,252.82,Poor,Stable,60.0,248.18,Poor,Stable,60.0
+Mumbai,Station_M2,2015-01-30,177.1,Moderate,277.15,Poor,Worsening,60.0,297.85,Poor,Worsening,60.0,234.35,Poor,Worsening,60.0
+Delhi,Station_D1,2015-01-30,74.1,Satisfactory,260.57,Poor,Worsening,60.0,257.71,Poor,Worsening,60.0,242.91,Poor,Worsening,60.0
+Bangalore,Station_B1,2015-01-30,386.5,Very Poor,258.34,Poor,Improving,60.0,253.01,Poor,Improving,60.0,256.08,Poor,Improving,60.0
+Mumbai,Station_M1,2015-01-30,92.9,Satisfactory,250.34,Poor,Worsening,60.0,242.34,Poor,Worsening,60.0,253.33,Poor,Worsening,60.0
+Delhi,Station_D1,2015-01-30,245.1,Poor,257.61,Poor,Stable,60.0,247.26,Poor,Stable,60.0,249.64,Poor,Stable,60.0
+Kolkata,Station_K2,2015-01-30,436.8,Severe,253.28,Poor,Improving,60.0,228.73,Poor,Improving,60.0,243.87,Poor,Improving,60.0
+Kolkata,Station_K1,2015-01-30,275.0,Poor,253.67,Poor,Improving,60.0,292.82,Poor,Worsening,60.0,281.58,Poor,Stable,60.0
+Delhi,Station_D2,2015-01-30,406.8,Severe,252.64,Poor,Improving,60.0,249.96,Poor,Improving,60.0,263.99,Poor,Improving,60.0
+Chennai,Station_C2,2015-01-30,58.7,Satisfactory,258.81,Poor,Worsening,60.0,273.45,Poor,Worsening,60.0,258.41,Poor,Worsening,60.0
+Chennai,Station_C1,2015-01-30,102.8,Moderate,240.27,Poor,Worsening,60.0,257.96,Poor,Worsening,60.0,226.06,Poor,Worsening,60.0
+Bangalore,Station_B2,2015-01-30,262.4,Poor,237.2,Poor,Improving,60.0,267.77,Poor,Stable,60.0,255.34,Poor,Stable,60.0
+Bangalore,Station_B1,2015-01-30,135.4,Moderate,242.96,Poor,Worsening,60.0,282.48,Poor,Worsening,60.0,237.73,Poor,Worsening,60.0
+Mumbai,Station_M1,2015-01-30,213.8,Poor,258.59,Poor,Worsening,60.0,279.3,Poor,Worsening,60.0,208.62,Poor,Stable,60.0
+Mumbai,Station_M2,2015-01-30,234.1,Poor,271.03,Poor,Worsening,60.0,276.63,Poor,Worsening,60.0,209.95,Poor,Improving,60.0
